@@ -16,7 +16,7 @@
 ---
 
 
-#### "ВКР" folder includes:
+### "ВКР" folder includes:
 - Short description of the work
 - pdf file of my master's thesis on "Using Deep Learning to evaluate financial instruments"
 - pdf file of presentation to the master's thesis

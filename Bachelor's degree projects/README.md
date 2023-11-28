@@ -25,7 +25,7 @@
  - Certificate of program registration
  - Link to conference abstracts
 
-### Some lab reports in ipynb (Jupyter Notebook) format are located in the folders "Data Analysis" and "Intelligent data analysis / Data mining"
+### "Анализ данных" и "Интеллектуальный анализ данных" folders include some lab reports in ipynb (Jupyter Notebook) format on data subjects "Data Analysis" and "Intelligent Data Analysis / Data mining"
 
 ### Other activity:
  - Participated in the qualification stage of Moscow Programming Contest 2019 as part of the PlatypusOfSorrow team (http://opentrains.mipt.ru/~ejudge/ttt)
